@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ellenox/static/css/main.38be36b0.css",
+    "main.js": "/Ellenox/static/js/main.65a2e709.js",
+    "index.html": "/Ellenox/index.html",
+    "main.38be36b0.css.map": "/Ellenox/static/css/main.38be36b0.css.map",
+    "main.65a2e709.js.map": "/Ellenox/static/js/main.65a2e709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.65a2e709.js"
+  ]
+}
